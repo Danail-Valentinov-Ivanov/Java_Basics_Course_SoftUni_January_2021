@@ -1,2 +1,2 @@
 # Java_Basics_jan_2021
-This repository contains laboratory exercises and homework exercises.
+This repository contains laboratory exercises and homework exercises with recuirements files.
