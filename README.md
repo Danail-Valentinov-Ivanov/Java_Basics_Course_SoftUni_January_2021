@@ -11,4 +11,5 @@ The [Programming Basics](https://softuni.bg/trainings/3205/programming-basics-wi
 -	Working with cycles (**for**-loops and **while** loops)
 -	Working with logical checks (**if-else**, **switch**)
 -	Working with more complex loops (**nested** for loops and while loops)
-[](https://softuni.bg/certificates/details/100488/7f55238f)
+
+Programming![Programming Basics with Java - март 2020 - Honorable mention](https://softuni.bg/certificates/details/100488/7f55238f)
